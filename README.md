@@ -16,4 +16,4 @@ The source codes are as follows:
 - Medicine_effect.html
 
 ## Discussion
-After completing this exercise, I understand how we can build Decision Tree model for selecting appropriate drug for future patient.
+After completing this exercise, I understand how we can build a Decision Tree model for selecting appropriate drug for the future patient.
