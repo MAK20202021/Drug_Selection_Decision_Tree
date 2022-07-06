@@ -1,7 +1,7 @@
 # Drug_Selection_Decision_Tree
 
 The main goal is to find the right model to select the right drug for future patient depending upon the demographic features of the dataset. 
-
+It is a sample of multiclass classifier, and you can use the training part of the dataset to build a decision tree, and then use it to predict the class of a unknown patient, or to prescribe a drug to a new patient.
 Then we have focused on the train and test splitting of the data set to evaluate the model accurately with the test set. Cross validation and Grid search can provide us more accurate model by tunning hyperparameters. 
 
 ## Acknowledgement
